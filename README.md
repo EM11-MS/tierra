@@ -1,6 +1,11 @@
 # Tierra. — Del núcleo al espacio
 
-Experiencia 3D interactiva para estudiar las capas de la Tierra: **interior**, **atmósfera** e **hidrósfera**.
+Experiencia 3D interactiva para estudiar las capas de la Tierra: **interior**, **atmósfera**, **hidrósfera** y **biósfera**.
+
+- **Interior:** corte transversal y vista explotada de las 5 capas.
+- **Atmósfera:** 5 capas en 3D y viaje a la altitud de cada una.
+- **Hidrósfera:** cuerpos de agua en el globo, bloque oceánico y descenso a la fosa de las Marianas dentro del planeta.
+- **Biósfera:** viaje a 6 biomas en su ubicación real (selva, desierto, bosque templado de la Sierra Gorda, sabana, tundra y arrecife de coral).
 
 **Abrir en línea:** https://em11-ms.github.io/tierra/
 
